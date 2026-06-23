@@ -1,0 +1,15 @@
+# Build output - regenerated from source, no behavioral meaning
+build/
+.gradle/
+out/
+bin/
+*.class
+*.jar
+#IDE / editor config
+.idea/
+*.iml
+.vscode
+.settings/
+#OS cruft
+.DS_Store
+*.log
