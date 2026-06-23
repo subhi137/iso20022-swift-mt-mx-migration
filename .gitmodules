@@ -1,0 +1,6 @@
+[submodule "prowide-core"]
+	path = prowide-core
+	url = https://github.com/prowide/prowide-core.git
+[submodule "prowide-iso20022"]
+	path = prowide-iso20022
+	url = https://github.com/prowide/prowide-iso20022.git
